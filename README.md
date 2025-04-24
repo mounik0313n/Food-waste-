@@ -1,1 +1,1 @@
-# Food-waste-
+# Food-waste-Detector
